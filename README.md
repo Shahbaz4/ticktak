@@ -26,8 +26,7 @@
     <h3 style="display:inline-block; font: 24px;">Player1</h3><input type="number"><br>
        <h3 style="display:inline-block">Player2</h3><input type="number">
     </div> 
-    
-    <div style="">
+    <div>
     <table align="center" width="300px" height="300px";>
     <tr>
         <th>1</th>
